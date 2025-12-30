@@ -1,0 +1,8 @@
+
+**requirements**
+
+tensorflow
+numpy
+matplotlib
+scikit-learn
+pillow
